@@ -152,6 +152,11 @@ hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "dbf433daaf5ca87264ed08d1dfa2f67da701a8fbe3e1b698295e762b57908047"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "bb3a3e5a8d797ab42800e58da4dae8bff96f39027d647d0741a1d26d5351a4b2"
 metafile = true
