@@ -192,6 +192,21 @@ hash = "ff52ca3814a15c1aa7c940bc0f965affea0279691816321945df63137cc7f810"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "2a75b3fb887f2b973ce82a1881ac811eea35dfe194d4e321f3e2565815e94448"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "ed2c987edef80404213abdba45b78e0af7d5d1e1ce73b160e7216b735199f877"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "dffd72507535895395a298e09cd0b8848ef6890647f40b49c890c2209df513af"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "b314dd9da655ef40322417884ef6fcca6f6a9b54538c8187dc3248201b8e3252"
 metafile = true
@@ -317,13 +332,13 @@ hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
 metafile = true
 
 [[files]]
-file = "mods/prickle.pw.toml"
-hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
+file = "mods/polylib.pw.toml"
+hash = "91c9e535cd0aebbf08f3cf831afe5bebea17aedb409fb435af250c1eea9e3a70"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "f527c21279cbfc2025d9cdf8267fe22cd43b42a2f994fc4ae0d76c069a844387"
+file = "mods/prickle.pw.toml"
+hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
 metafile = true
 
 [[files]]
@@ -334,11 +349,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "71c69a20c6325a3b41de44f5963e5d74afed3bc9d86eb29c5fd0352c72db38cd"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "abfad0761a7c077943106b4f1df9d17259582b970164086fcf50b11f5a933622"
 metafile = true
 
 [[files]]
