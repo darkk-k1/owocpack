@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ironjetpacks/jetpacks/diamond.json"
+hash = "91747eddbc878adca5d9c0e5a763e293ace1c4b14ebd28fd250a07c62c8e46ee"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/iron.json"
+hash = "7b8c51c78f04b94831765f47f1d14e50481a89c79fa0863b8a729681719bca7e"
+
+[[files]]
+file = "gomods.py"
+hash = "f2ca1bb6c7e907d06dafe4687e579fce76b37e4e93b7605022da52e6ccc26fd2"
+
+[[files]]
+file = "modlist.txt"
+hash = "6eb8f9049108f1a374bf994042e8ea318ec8aaf049e9c9e1179189f3897d46fb"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
 metafile = true
