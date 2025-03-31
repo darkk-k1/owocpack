@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "gomods.py"
-hash = "9b8f310012244ae3dfa03d2e7cd87935d9457187ace76bf334514ae44c7bd105"
-
-[[files]]
-file = "modlist.txt"
-hash = "c9ce3b80a1dea8a11c94a32f91209bf84435b0653b48764965838f2aeefff7bc"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
 metafile = true
