@@ -1,0 +1,13 @@
+name = "Connected Glass"
+filename = "connectedglass-1.1.12-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DghO0R02/versions/aP5HhunF/connectedglass-1.1.12-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "d8ce140978c0abb0ee07ba80eb3ad747ed0c8f7d47d3f57d9ce62377ddc8c46920840c722f24731954931a5a72201450e81f4a6246e24ab26baafc99d5a4cd48"
+
+[update]
+[update.modrinth]
+mod-id = "DghO0R02"
+version = "aP5HhunF"
