@@ -337,6 +337,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/multiplayer-server-pause-forge.pw.toml"
+hash = "1e925cbd145e791db3a8523b853e63ab73bc450f1bab59328c564ad7c1eadddd"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
@@ -374,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "71c69a20c6325a3b41de44f5963e5d74afed3bc9d86eb29c5fd0352c72db38cd"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud.pw.toml"
+hash = "5b802c08924bb28450abb923270967fca7952ac93e45e4b50cca3d41f740133c"
 metafile = true
 
 [[files]]
