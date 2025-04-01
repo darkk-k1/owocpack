@@ -147,6 +147,11 @@ hash = "391f875058b29709daf39840494db640bfe7a35262f45b81689df8af350cba82"
 metafile = true
 
 [[files]]
+file = "mods/create-winery.pw.toml"
+hash = "455d64f115d9a83a2f7e8378d3356167eabd28bc3fe3d7debe4d86c4ebcbaa00"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
@@ -229,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
 metafile = true
 
 [[files]]
