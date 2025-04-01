@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -177,6 +177,11 @@ hash = "6fd503d209f38137d3c5cbe1191c0e9fd401622f86b051d48b49427000d1ede7"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-torches.pw.toml"
+hash = "c874c36a8d6130ee68d3a8230ae7be100c4c5122d585e8813ac637132bd20d80"
+metafile = true
+
+[[files]]
 file = "mods/enderchests.pw.toml"
 hash = "f8653565800b10916a6486bf3687ca3d312f63b397f149e7212bd7838e7ba86b"
 metafile = true
@@ -292,6 +297,11 @@ hash = "0b0b2c7e921305404fe652e860a245687a4cd90b512ff74a85208fab8b437e28"
 metafile = true
 
 [[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "62b7cde0752e90b3a7ff80c0206778b4f7853c5cb657cc9c1131d2bf652787bc"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
@@ -334,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
+file = "mods/only-hammers-and-excavators.pw.toml"
+hash = "552786502988d5110e43bd3b18663315e34be50abfc58c0ba395c18a7f9a393c"
 metafile = true
 
 [[files]]

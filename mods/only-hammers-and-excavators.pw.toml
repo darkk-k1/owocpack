@@ -1,0 +1,13 @@
+name = "Only Hammers And Excavators"
+filename = "onlyhammersandexcavators-1.21.1-0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OwtcCsNI/versions/NBebZrRU/onlyhammersandexcavators-1.21.1-0.2.jar"
+hash-format = "sha512"
+hash = "cb3fb46a16967354d10187360c76d1204ff08de7baf949df1dd5d51e7410815d5e7a4aa0ed1f27a7f9adeaf5a3472821277ddd60b4aaad63f28b7a40b626b297"
+
+[update]
+[update.modrinth]
+mod-id = "OwtcCsNI"
+version = "NBebZrRU"
