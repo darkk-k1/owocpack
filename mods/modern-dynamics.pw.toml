@@ -1,0 +1,13 @@
+name = "Modern Dynamics"
+filename = "Modern-Dynamics-0.9.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fMpvLrnF/versions/TdPkMBLc/Modern-Dynamics-0.9.4.jar"
+hash-format = "sha512"
+hash = "cd4bfefd8f11f3736bc7bd1a178f74c2e8f2e1735299707beb2911e94141e53a76e94922cbd48688d13ab2de0a0b0600d33801a2334ae14d599c6dfc1de8e0d9"
+
+[update]
+[update.modrinth]
+mod-id = "fMpvLrnF"
+version = "TdPkMBLc"
