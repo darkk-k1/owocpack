@@ -192,6 +192,11 @@ hash = "f8653565800b10916a6486bf3687ca3d312f63b397f149e7212bd7838e7ba86b"
 metafile = true
 
 [[files]]
+file = "mods/endertanks.pw.toml"
+hash = "4d0c7d66d58af303d318ba280167e0b46965ba73a901e67c01f40462f3003536"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
 metafile = true

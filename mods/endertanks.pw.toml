@@ -1,0 +1,13 @@
+name = "EnderTanks"
+filename = "endertanks-neoforge-1.21.1-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zZwEA08D/versions/Bxlypf0L/endertanks-neoforge-1.21.1-0.1.jar"
+hash-format = "sha512"
+hash = "c7b189a546334f3ddebeb06a58e84b605826e5371eaa505b37f0d690f0985e1fb8e32a54907588dc7b351fbef7eb82e20e2e6a8eb63ab8b0a00b357a1730042d"
+
+[update]
+[update.modrinth]
+mod-id = "zZwEA08D"
+version = "Bxlypf0L"
