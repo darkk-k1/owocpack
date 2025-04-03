@@ -432,6 +432,11 @@ hash = "a9a1788e852f7d172c941fcd1c3e310e96613114505c928766973cc13732cb0d"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "f76cf8e81f58dc33abd976ce6b4e217d3faa912533f616e4387397ece43c8d14"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
