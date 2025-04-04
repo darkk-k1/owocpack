@@ -77,8 +77,13 @@ hash = "483b991a04edc55f0844906857b30fcbd2fe7d3210ac0b31628dec49ddc0c0db"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "bbb1ee402d978d122fb440e43b1225b6fc048490313461954d74a9c8ea48642e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
