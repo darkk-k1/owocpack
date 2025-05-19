@@ -362,6 +362,11 @@ hash = "a39f8414359205dc2009a9a1b3645b853d79f6886528a5cfcedfc984e0a58a88"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "4a40f089ec8944d5290ac5bb43037170603bda41de2d5af56a56a737f8341755"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "afb4373c63b5ef3ac5ad0651fbbb2db5cf322f2658597e3bad8a0302d124b41c"
 metafile = true
@@ -384,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
+file = "mods/new-slab-variants.pw.toml"
+hash = "dccf1daad92df7a9f1c628e716937ccf885a5a03b2e83f8d0d1d9264da5d59da"
 metafile = true
 
 [[files]]
