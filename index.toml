@@ -117,6 +117,11 @@ hash = "7ac3d0e0cba4ffdcf3b8a760468d3681d674718c473b568d2a17379b3ef8b1b0"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "01cbe8ec6afc6eb4d0bb084eaf5436f3f955dcd31e21a275a4b7f11eca36c63b"
 metafile = true
@@ -127,6 +132,11 @@ hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "8d8c1d2270148b02ab4aa92275a55e879daf4fb9eab94750cf50c1d8b598e8d2"
+metafile = true
+
+[[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "32956e0b85a4631a5c2091bbd64387978970e83c3d6f7654a3a4a8b59ddff0cc"
 metafile = true
@@ -134,6 +144,16 @@ metafile = true
 [[files]]
 file = "mods/create-encased.pw.toml"
 hash = "ac8ac22c5e9b7db3c3a587a530acf2017538c9d5250fbe2a771079eb975fb745"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "aea6c57b39a574c29088a8533062e831736b2d69f6fbc7e3a0df3e7d71b31153"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
 metafile = true
 
 [[files]]
