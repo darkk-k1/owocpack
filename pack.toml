@@ -10,4 +10,4 @@ hash = "490a1855504e91d5de3947ef88b2fd146a8736afe6ded803888abb68fbf1142a"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.140"
+neoforge = "21.1.152"
